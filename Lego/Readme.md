@@ -1,6 +1,6 @@
 # A datacamp project to analyze one of most famous licensed Lego sets, the star wars series.
 
-You can consult the datacamp porject [here](https://www.datacamp.com/projects/10)
+You can consult the datacamp project [here](https://www.datacamp.com/projects/10)
 
 Here I answered four key questions: 
 
